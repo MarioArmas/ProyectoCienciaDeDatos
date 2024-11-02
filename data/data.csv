@@ -222,7 +222,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 6737;Sedan;MERCEDES-BENZ;S 320;1999;Tiptronic;Yes;LPG;3.2;Rear;6;157000 km;4;8;Left wheel;White;-;9095
 6045;Hatchback;HONDA;FIT;2004;Automatic;No;Petrol;1.3;Front;4;0 km;4;4;Right-hand drive;Silver;-;30
 1939;Jeep;TOYOTA;CHR;2018;Automatic;Yes;Petrol;2;Front;4;25850 km;4;12;Left wheel;Grey;1079;784
-12365;Jeep;MITSUBISHI;Pajero Mini 2008 ·É¨·Éö·Éò·Éê·Éú·Éò;2008;Automatic;No;Petrol;0.7 Turbo;4x4;4;166000 km;2;4;Right-hand drive;Grey;1109;6272
+12365;Jeep;MITSUBISHI;Pajero Mini;2008;Automatic;No;Petrol;0.7 Turbo;4x4;4;166000 km;2;4;Right-hand drive;Grey;1109;6272
 18275;Sedan;MERCEDES-BENZ;E 350;2014;Automatic;Yes;Diesel;3.5;4x4;6;219030 km;4;12;Left wheel;Black;1053;29793
 6159;Sedan;HYUNDAI;Sonata;2014;Automatic;Yes;LPG;2;Front;4;389854 km;4;4;Left wheel;Silver;639;10036
 8459;Sedan;TOYOTA;Camry;2018;Automatic;Yes;Petrol;2.5;Front;4;60915 km;4;0;Left wheel;White;1327;251
@@ -717,7 +717,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 8020;Sedan;MERCEDES-BENZ;C 180;2013;Tiptronic;No;Petrol;1.8;Rear;4;48000 km;4;6;Right-hand drive;White;1503;17500
 10495;Jeep;LEXUS;GX 470;2008;Automatic;Yes;Petrol;4.7;4x4;8;263190 km;4;0;Left wheel;White;2455;862
 811;Jeep;NISSAN;Juke;2013;Automatic;Yes;Petrol;1.6;4x4;4;110531 km;4;0;Left wheel;Red;530;14426
-12244;Jeep;MERCEDES-BENZ;GL 350 ·Éì·Éò·Éñ·Éî·Éö·Éò;2012;Automatic;Yes;Diesel;3.0 Turbo;4x4;6;140200 km;4;10;Left wheel;Grey;919;45473
+12244;Jeep;MERCEDES-BENZ;GL 350 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2012;Automatic;Yes;Diesel;3.0 Turbo;4x4;6;140200 km;4;10;Left wheel;Grey;919;45473
 235;Jeep;FORD;Escape;2008;Automatic;Yes;Hybrid;0.4;Front;4;220474 km;4;0;Left wheel;Grey;289;282
 9698;Jeep;TOYOTA;CHR;2019;Automatic;Yes;Petrol;2;Front;4;3237 km;4;12;Left wheel;Black;1077;282
 8982;Sedan;MERCEDES-BENZ;E 300;2017;Automatic;Yes;Petrol;2;Rear;4;1600 km;4;12;Left wheel;Black;1017;94
@@ -766,7 +766,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 17339;Sedan;MERCEDES-BENZ;E 220;1998;Manual;No;Diesel;2.2;Rear;4;0 km;4;6;Left wheel;Silver;-;8467
 7524;Jeep;HONDA;Cr-v;1998;Automatic;No;Petrol;2;4x4;4;111111 km;4;2;Right-hand drive;Green;-;6272
 3008;Universal;TOYOTA;Caldina;2003;Automatic;No;Petrol;2;Front;4;112000 km;4;4;Right-hand drive;Silver;-;8154
-14855;Sedan;VOLKSWAGEN;Jetta ·É°·Éû·Éù·É†·É¢;2016;Manual;Yes;Petrol;1.8 Turbo;Front;4;45707 km;4;6;Left wheel;Grey;810;21000
+14855;Sedan;VOLKSWAGEN;Jetta ï¿½É°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½É¢;2016;Manual;Yes;Petrol;1.8 Turbo;Front;4;45707 km;4;6;Left wheel;Grey;810;21000
 6669;Coupe;HYUNDAI;Genesis;2015;Automatic;Yes;Petrol;2;Front;4;93000 km;4;4;Left wheel;White;765;38737
 6080;Jeep;TOYOTA;CHR;2018;Automatic;Yes;Petrol;2;Front;4;38712 km;4;12;Left wheel;White;1079;10349
 5596;Jeep;HYUNDAI;Santa FE;2017;Automatic;Yes;Diesel;2;Front;4;72040 km;4;4;Left wheel;Blue;1017;42717
@@ -2467,7 +2467,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 11195;Hatchback;OPEL;Astra;2000;Manual;No;Petrol;1.6;Front;4;228982 km;2;4;Left wheel;Blue;-;7370
 17166;Sedan;MERCEDES-BENZ;E 220;2007;Automatic;No;Diesel;2.2 Turbo;Rear;4;0 km;4;0;Left wheel;Black;-;17249
 11568;Microbus;FORD;Transit;2003;Manual;Yes;Diesel;2.0 Turbo;Front;4;300000 km;4;1;Left wheel;Yellow;-;12544
-17703;Hatchback;TOYOTA;Prius ·É?·Éò·Éë·É†·Éò·Éì·Éò;2012;Variator;No;Hybrid;1.8;Front;4;97000 km;4;12;Left wheel;Carnelian red;586;18189
+17703;Hatchback;TOYOTA;Prius ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2012;Variator;No;Hybrid;1.8;Front;4;97000 km;4;12;Left wheel;Carnelian red;586;18189
 12387;Sedan;MERCEDES-BENZ;E 350;2014;Automatic;Yes;Diesel;3.5;Rear;6;146395 km;4;12;Left wheel;Grey;1053;1882
 18471;Jeep;HONDA;Pilot;2011;Automatic;Yes;Petrol;3.5;4x4;6;161602 km;4;12;Left wheel;Black;1172;2038
 11383;Goods wagon;FORD;Transit Connect;2012;Manual;No;Diesel;1.8 Turbo;Front;4;143560 km;4;2;Right-hand drive;White;1505;13799
@@ -3318,7 +3318,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 14242;Hatchback;VOLKSWAGEN;GTI;2015;Automatic;Yes;Petrol;0.2;Front;4;237930 km;4;12;Left wheel;White;155;2117
 11084;Sedan;HYUNDAI;Sonata;2010;Automatic;Yes;Petrol;2;Front;4;205972 km;4;4;Left wheel;Grey;836;15257
 14930;Sedan;HYUNDAI;Sonata;2016;Automatic;Yes;Petrol;2;Front;4;38804 km;4;4;Left wheel;White;891;60345
-7173;Sedan;AUDI;A6 –°6;2008;Tiptronic;Yes;Petrol;3.2;4x4;6;158177 km;4;12;Right-hand drive;Grey;-;21953
+7173;Sedan;AUDI;A6 ï¿½ï¿½6;2008;Tiptronic;Yes;Petrol;3.2;4x4;6;158177 km;4;12;Right-hand drive;Grey;-;21953
 17689;Hatchback;TOYOTA;Prius;2010;Automatic;Yes;Hybrid;1.8;Front;4;159665 km;4;8;Left wheel;Black;-;17300
 18417;Sedan;CHEVROLET;Malibu;2014;Automatic;Yes;Petrol;2;Front;4;115131 km;4;4;Left wheel;Black;639;28608
 14683;Sedan;TOYOTA;Camry;2015;Automatic;No;Petrol;2.4;Front;4;84130 km;4;12;Left wheel;White;900;22266
@@ -3602,7 +3602,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 7851;Sedan;HYUNDAI;Sonata;2016;Automatic;Yes;Petrol;2;Front;4;43000 km;4;4;Left wheel;Black;891;47989
 12706;Hatchback;TOYOTA;Aqua s;2013;Automatic;No;Hybrid;1.5;Front;4;120000 km;4;12;Right-hand drive;White;-;15681
 9931;Hatchback;HONDA;FIT;2012;Automatic;No;Hybrid;1.3;Front;2;311000 km;4;6;Right-hand drive;White;-;10450
-13888;Hatchback;TOYOTA;Prius C ·É?·Éò·Éë·É†·Éò·Éì·Éò;2012;Automatic;No;Hybrid;1.5;Front;4;110000 km;4;12;Left wheel;Sky blue;503;18503
+13888;Hatchback;TOYOTA;Prius C ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2012;Automatic;No;Hybrid;1.5;Front;4;110000 km;4;12;Left wheel;Sky blue;503;18503
 5139;Jeep;BMW;X1 28Xdrive;2014;Tiptronic;Yes;Petrol;2.0 Turbo;4x4;4;95000 km;4;12;Left wheel;Grey;-;37633
 16056;Jeep;BMW;X5;2014;Tiptronic;Yes;Petrol;3.5 Turbo;4x4;6;158000 km;4;12;Left wheel;White;1053;77775
 12956;Sedan;VOLKSWAGEN;Jetta;2011;Automatic;Yes;Petrol;2.5;Front;5;143603 km;4;12;Left wheel;Black;862;1019
@@ -3892,7 +3892,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 1674;Jeep;LEXUS;GX 460;2010;Automatic;Yes;Petrol;4.6;4x4;8;260771 km;4;0;Left wheel;Black;1811;46728
 11946;Sedan;TOYOTA;Camry;2014;Automatic;Yes;Hybrid;2.5;Front;4;179381 km;4;12;Left wheel;Black;394;11133
 4477;Sedan;AUDI;A4;2014;Automatic;Yes;Petrol;2;Front;4;162032 km;4;0;Left wheel;Black;639;706
-7749;Sedan;BMW;M5 –ú–?—à–?–?–? –? –º–?–?—Å–?–º–?–ª—å–?–æ;2018;Tiptronic;Yes;Petrol;4.4;4x4;8;13500 km;4;0;Left wheel;Black;2269;288521
+7749;Sedan;BMW;M5 ï¿½ï¿½ï¿½?ï¿½ï¿½ï¿½?ï¿½?ï¿½? ï¿½? ï¿½ï¿½ï¿½?ï¿½?ï¿½Å–?ï¿½ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½?ï¿½ï¿½;2018;Tiptronic;Yes;Petrol;4.4;4x4;8;13500 km;4;0;Left wheel;Black;2269;288521
 9753;Jeep;HYUNDAI;Santa FE;2010;Automatic;Yes;Diesel;2;Front;4;200221 km;4;4;Left wheel;Silver;836;15496
 11556;Hatchback;TOYOTA;Vitz;2010;Automatic;No;Petrol;1;Front;4;39000 km;4;10;Right-hand drive;Black;1163;6586
 4232;Sedan;BMW;525 i;2003;Tiptronic;Yes;Petrol;2.5;Rear;6;190000 km;4;6;Left wheel;Grey;-;9408
@@ -4177,7 +4177,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 4682;Sedan;CHEVROLET;Lacetti;2010;Automatic;Yes;Petrol;1.8;Front;4;118875 km;4;4;Left wheel;Grey;761;9512
 6238;Sedan;HONDA;Insight;2010;Variator;Yes;Hybrid;1.3;Front;4;145000 km;4;12;Left wheel;White;-;30
 7385;Sedan;OPEL;Astra G;1999;Manual;No;Petrol;1.6;Front;4;200000 km;4;4;Left wheel;Silver;-;8154
-6162;Jeep;FORD;Escape ·Éõ·Éî·É†·Éô·É£·É†·Éò ·Éõ·Éî·É†·Éò·Éú·Éî·É†·Éò;2008;Variator;No;Hybrid;2.3;4x4;4;186254 km;4;4;Left wheel;Sky blue;-;17500
+6162;Jeep;FORD;Escape ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½É£ï¿½É†ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½;2008;Variator;No;Hybrid;2.3;4x4;4;186254 km;4;4;Left wheel;Sky blue;-;17500
 17432;Sedan;FORD;Focus;2014;Tiptronic;Yes;Petrol;2;Front;4;121600 km;4;10;Left wheel;Blue;639;12858
 5291;Jeep;HYUNDAI;Santa FE;2020;Automatic;Yes;Diesel;2.2;Front;4;25468 km;4;4;Left wheel;White;1174;81445
 2572;Hatchback;OPEL;Corsa;1998;Manual;No;Petrol;1.4;Front;4;0 km;4;3;Left wheel;Carnelian red;-;4704
@@ -4270,7 +4270,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 8089;Jeep;SUBARU;Forester;2004;Automatic;Yes;LPG;2.5 Turbo;4x4;4;235200 km;4;4;Left wheel;Grey;-;7527
 12161;Sedan;MERCEDES-BENZ;E 300;2017;Automatic;Yes;Petrol;2;Rear;4;50963 km;4;12;Left wheel;Black;1017;56136
 9776;Jeep;SSANGYONG;Actyon;2019;Automatic;Yes;Diesel;1.6;Front;4;57874 km;4;4;Left wheel;Blue;879;43868
-11060;Jeep;LAND ROVER;Range Rover Evoque ·É†·Éî·É°·É¢·Éê;2016;Tiptronic;Yes;Petrol;2.0 Turbo;4x4;4;59830 km;4;12;Left wheel;White;-;78403
+11060;Jeep;LAND ROVER;Range Rover Evoque ï¿½É†ï¿½ï¿½ï¿½É°ï¿½É¢ï¿½ï¿½ï¿½;2016;Tiptronic;Yes;Petrol;2.0 Turbo;4x4;4;59830 km;4;12;Left wheel;White;-;78403
 9141;Hatchback;TOYOTA;Aqua;2012;Variator;No;Hybrid;1.5;Front;4;67000 km;4;4;Right-hand drive;Silver;1268;10976
 1875;Jeep;NISSAN;Juke;2012;Automatic;No;Petrol;1.6;Front;4;0 km;4;10;Left wheel;Black;531;18400
 9741;Hatchback;CHEVROLET;Volt;2011;Automatic;Yes;Plug-in Hybrid;1.4;Front;4;105989 km;4;8;Left wheel;Silver;521;16621
@@ -4382,7 +4382,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 6180;Hatchback;NISSAN;Micra;2003;Manual;No;Petrol;1.2;Front;4;236000 km;4;2;Left wheel;Brown;-;5959
 16561;Microbus;FORD;Transit;2000;Manual;No;Diesel;2.5 Turbo;Rear;4;193000 km;4;2;Left wheel;Carnelian red;2080;6899
 11224;Jeep;BMW;X5 M packet;2011;Tiptronic;Yes;Petrol;4.4 Turbo;4x4;8;170000 km;4;12;Left wheel;Black;-;32302
-18153;Sedan;HYUNDAI;Sonata ·É°·Éê·É°·É¨·É†·Éê·É§·Éù·Éì;2014;Tiptronic;Yes;LPG;2;Front;4;52764 km;4;10;Left wheel;Black;-;24148
+18153;Sedan;HYUNDAI;Sonata ï¿½É°ï¿½ï¿½ï¿½É°ï¿½É¨ï¿½É†ï¿½ï¿½ï¿½É§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2014;Tiptronic;Yes;LPG;2;Front;4;52764 km;4;10;Left wheel;Black;-;24148
 7743;Minivan;HYUNDAI;H1;2014;Automatic;Yes;Diesel;2.5;Front;4;97010 km;4;4;Left wheel;Grey;777;34108
 3676;Sedan;KIA;Cerato;2016;Automatic;Yes;Diesel;1.6;Front;4;28647 km;4;4;Left wheel;Silver;723;18660
 9725;Sedan;TOYOTA;Prius;2012;Tiptronic;No;Petrol;1.8;Front;4;39000 km;4;0;Left wheel;Grey;-;19500
@@ -5054,7 +5054,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 11905;Sedan;HYUNDAI;Sonata;2015;Automatic;Yes;LPG;2;Front;4;38600 km;4;4;Left wheel;Silver;765;9879
 12056;Jeep;TOYOTA;Prius;2010;Automatic;Yes;Hybrid;1.8;Front;4;0 km;4;12;Left wheel;White;761;3293
 8544;Sedan;LINCOLN;Continental;2018;Automatic;Yes;Petrol;2.7;Front;6;25790 km;4;12;Left wheel;White;1426;470
-7946;Jeep;MITSUBISHI;Outlander ·É°·Éû·Éù·É†·É¢;2014;Automatic;No;Petrol;2;4x4;4;82000 km;4;8;Left wheel;White;639;21639
+7946;Jeep;MITSUBISHI;Outlander ï¿½É°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½É¢;2014;Automatic;No;Petrol;2;4x4;4;82000 km;4;8;Left wheel;White;639;21639
 4822;Coupe;HYUNDAI;Genesis;2015;Automatic;Yes;Petrol;2;Front;4;61298 km;4;4;Left wheel;Grey;765;29777
 1736;Jeep;LEXUS;RX 450;2010;Automatic;Yes;Hybrid;3.5;4x4;6;186005 km;4;12;Left wheel;Silver;1399;13328
 4869;Sedan;MERCURY;Cougar;2010;Automatic;Yes;Petrol;3;4x4;6;178011 km;4;12;Left wheel;Silver;1211;941
@@ -5315,7 +5315,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 19155;Minivan;HONDA;Fred;2018;Automatic;No;Hybrid;1.5;Front;4;19000 km;4;0;Right-hand drive;Grey;2266;24000
 12537;Jeep;HYUNDAI;Santa FE;2015;Automatic;Yes;Petrol;3.3;Front;6;97304 km;4;12;Left wheel;White;1205;10192
 9470;Sedan;TOYOTA;Prius;2013;Automatic;No;Hybrid;1.8;Front;4;123000 km;4;0;Left wheel;Black;585;21482
-2360;Jeep;MERCEDES-BENZ;ML 280 ·É°·Éê·É°·É¨·É†·Éê·É§·Éù·Éì;2007;Automatic;Yes;Diesel;3;4x4;6;215000 km;4;8;Left wheel;Silver;-;21500
+2360;Jeep;MERCEDES-BENZ;ML 280 ï¿½É°ï¿½ï¿½ï¿½É°ï¿½É¨ï¿½É†ï¿½ï¿½ï¿½É§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2007;Automatic;Yes;Diesel;3;4x4;6;215000 km;4;8;Left wheel;Silver;-;21500
 2032;Sedan;DAEWOO;Lacetti;2009;Automatic;Yes;Petrol;1.6;Front;4;52020 km;4;4;Left wheel;White;790;7056
 3738;Sedan;MERCEDES-BENZ;E 350;2009;Automatic;Yes;Diesel;3.5;Rear;6;109139 km;4;12;Left wheel;Black;1624;3450
 18365;Hatchback;HONDA;FIT;2010;Variator;No;Petrol;1.3;Front;4;113349 km;4;4;Right-hand drive;Brown;-;10976
@@ -5514,7 +5514,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 4929;Hatchback;FORD;Focus SE;2014;Automatic;No;Petrol;2;Front;4;135313 km;4;6;Left wheel;White;639;14740
 3696;Sedan;MERCEDES-BENZ;E 320;2000;Tiptronic;Yes;CNG;3.2;4x4;6;192000 km;4;6;Left wheel;Silver;-;9408
 1256;Hatchback;TOYOTA;Aqua;2012;Automatic;Yes;Petrol;1.5;Front;4;28000 km;4;4;Left wheel;Silver;503;22502
-16995;Sedan;TOYOTA;Camry ·É?·Éò·Éë·É†·Éò·Éì·Éò;2008;Tiptronic;No;Hybrid;2.4;Front;4;192000 km;4;12;Left wheel;Silver;1296;13172
+16995;Sedan;TOYOTA;Camry ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2008;Tiptronic;No;Hybrid;2.4;Front;4;192000 km;4;12;Left wheel;Silver;1296;13172
 15160;Minivan;HYUNDAI;H1;2010;Automatic;Yes;Diesel;2.5;Front;4;77102 km;4;4;Left wheel;Black;1024;16778
 18460;Sedan;CHEVROLET;Malibu;2018;Tiptronic;Yes;Petrol;1.5;Front;4;6500 km;4;10;Left wheel;Grey;831;33500
 15692;Sedan;HYUNDAI;Sonata;2016;Automatic;Yes;LPG;2;Front;4;292837 km;4;4;Left wheel;Silver;891;11290
@@ -5623,7 +5623,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 1272;Jeep;KIA;Sportage;2016;Tiptronic;Yes;Diesel;2.0 Turbo;Front;4;27000 km;4;8;Left wheel;Black;-;53314
 16002;Jeep;LEXUS;RX 350;2010;Automatic;Yes;Petrol;3.5;Front;6;136542 km;4;0;Left wheel;Blue;1399;3450
 16660;Sedan;CHEVROLET;Cruze LT;2018;Automatic;No;Petrol;1.4 Turbo;Front;4;21786 km;4;8;Left wheel;Black;781;15524
-6746;Sedan;MERCEDES-BENZ;E 320 4?ó4;2004;Automatic;Yes;CNG;3.2;4x4;4;315994 km;4;8;Left wheel;Silver;-;15500
+6746;Sedan;MERCEDES-BENZ;E 320 4?ï¿½4;2004;Automatic;Yes;CNG;3.2;4x4;4;315994 km;4;8;Left wheel;Silver;-;15500
 14793;Sedan;MERCEDES-BENZ;S 550;2010;Automatic;Yes;Petrol;5.5;4x4;8;149434 km;4;12;Left wheel;Black;2148;4391
 12119;Jeep;CHEVROLET;Volt;2014;Automatic;Yes;Hybrid;1.4;Front;4;133195 km;4;0;Left wheel;Black;259;862
 9551;Sedan;HONDA;Civic;2019;Automatic;Yes;Petrol;2;Front;4;8115 km;4;4;Left wheel;Silver;1077;59827
@@ -5738,7 +5738,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 11237;Sedan;MERCEDES-BENZ;C 200;2008;Tiptronic;No;Diesel;2.2;Rear;4;232000 km;4;8;Left wheel;Grey;-;21400
 8338;Sedan;MERCEDES-BENZ;S 320;2000;Tiptronic;Yes;CNG;3.2;Rear;6;210000 km;4;10;Left wheel;White;-;11917
 728;Sedan;CHEVROLET;Cruze;2012;Automatic;Yes;Diesel;2;Front;4;62649 km;4;4;Left wheel;White;642;8624
-6261;Goods wagon;MERCEDES-BENZ;Sprinter ·É°·Éê·É¢·Éï·Éò·É†·Éó·Éù;2002;Manual;No;Diesel;2.2 Turbo;Rear;4;240000 km;4;2;Left wheel;White;-;50
+6261;Goods wagon;MERCEDES-BENZ;Sprinter ï¿½É°ï¿½ï¿½ï¿½É¢ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½;2002;Manual;No;Diesel;2.2 Turbo;Rear;4;240000 km;4;2;Left wheel;White;-;50
 2471;Sedan;JAGUAR;XJ;2015;Automatic;Yes;Petrol;3;4x4;6;54429 km;4;12;Left wheel;White;1104;1646
 13324;Jeep;MERCEDES-BENZ;GLE 350;2018;Automatic;Yes;Petrol;3;4x4;6;21499 km;4;12;Left wheel;White;1575;63663
 15814;Hatchback;HONDA;FIT;2014;Automatic;Yes;Petrol;1.5;Front;4;28300 km;4;4;Left wheel;Silver;501;25243
@@ -6911,7 +6911,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 14729;Sedan;BMW;650;2014;Automatic;Yes;Petrol;4.4;4x4;8;0 km;4;12;Left wheel;Blue;1301;94
 11570;Hatchback;CHEVROLET;Volt;2014;Automatic;Yes;Hybrid;1.4;Front;4;131893 km;4;0;Left wheel;Brown;259;314
 1676;Sedan;LEXUS;HS 250h;2010;Automatic;Yes;Hybrid;2.4;Front;4;169000 km;4;10;Left wheel;Black;986;27284
-10961;Hatchback;TOYOTA;Prius C ·É?·Éò·Éë·É†·Éò·Éì·Éò;2013;Variator;No;Hybrid;1.5;Front;4;11000 km;4;12;Left wheel;Green;502;19444
+10961;Hatchback;TOYOTA;Prius C ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2013;Variator;No;Hybrid;1.5;Front;4;11000 km;4;12;Left wheel;Green;502;19444
 4969;Sedan;HYUNDAI;Sonata;2011;Automatic;Yes;Hybrid;2.4;Front;4;0 km;4;0;Left wheel;Silver;831;392
 15111;Sedan;TOYOTA;Corolla;2013;Automatic;Yes;Petrol;1.8;Front;4;170922 km;4;12;Left wheel;White;585;549
 16788;Hatchback;NISSAN;Note;2009;Manual;No;Petrol;1.6;Front;4;180000 km;4;4;Right-hand drive;White;-;8154
@@ -8270,7 +8270,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 387;Hatchback;HONDA;FIT;2014;Automatic;No;Hybrid;1.5;Front;4;114000 km;4;8;Right-hand drive;White;1266;10663
 1010;Sedan;ACURA;TLX;2015;Automatic;Yes;Petrol;2.4;Front;4;83099 km;4;12;Left wheel;Black;900;3450
 8573;Sedan;LEXUS;HS 250h;2010;Automatic;Yes;Hybrid;2.4;Front;4;93000 km;4;12;Left wheel;Black;986;24148
-305;Sedan;MERCEDES-BENZ;E 350 ·Éê·Éõ·Éí;2013;Tiptronic;Yes;Petrol;3.5;4x4;4;156800 km;4;12;Left wheel;Black;1055;37320
+305;Sedan;MERCEDES-BENZ;E 350 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2013;Tiptronic;Yes;Petrol;3.5;4x4;4;156800 km;4;12;Left wheel;Black;1055;37320
 18395;Sedan;MERCEDES-BENZ;C 220;1996;Manual;No;Diesel;2.2;Rear;4;136000 km;4;0;Left wheel;Blue;-;5018
 4672;Hatchback;MAZDA;Axela;2015;Automatic;Yes;Petrol;1.5;Front;4;39000 km;4;6;Right-hand drive;Brown;1552;15000
 3136;Sedan;HYUNDAI;Sonata;2010;Automatic;Yes;Petrol;2;Front;4;155590 km;4;4;Left wheel;Grey;836;20297
@@ -8360,7 +8360,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 11769;Sedan;CHEVROLET;Impala;2019;Automatic;Yes;Petrol;3.6;Front;6;18438 km;4;12;Left wheel;Silver;1869;3450
 8846;Jeep;BMW;X5;2013;Automatic;Yes;Diesel;3;4x4;6;137802 km;4;0;Left wheel;Black;917;1019
 4475;Sedan;TOYOTA;Camry;2014;Automatic;Yes;Petrol;2.5;Front;4;53310 km;4;12;Left wheel;Black;777;8938
-5075;Microbus;MERCEDES-BENZ;Sprinter Maxi-·É° Max;2013;Tiptronic;Yes;Diesel;3.0 Turbo;Rear;6;328000 km;4;6;Left wheel;White;917;25089
+5075;Microbus;MERCEDES-BENZ;Sprinter Maxi-ï¿½É° Max;2013;Tiptronic;Yes;Diesel;3.0 Turbo;Rear;6;328000 km;4;6;Left wheel;White;917;25089
 3371;Sedan;HYUNDAI;Elantra;2015;Tiptronic;No;Petrol;1.8;Front;4;96000 km;4;8;Left wheel;Grey;-;70
 15420;Sedan;MERCEDES-BENZ;S 500;2002;Automatic;Yes;Petrol;4.3;Rear;8;29000 km;4;10;Left wheel;Black;-;10976
 1716;Jeep;SSANGYONG;Actyon;2011;Automatic;Yes;Diesel;2;Front;4;181000 km;4;4;Left wheel;Silver;707;18826
@@ -8662,7 +8662,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 14898;Hatchback;LEXUS;CT 200h;2015;Automatic;Yes;Hybrid;1.8;Front;4;54400 km;4;16;Left wheel;Black;353;34497
 1583;Sedan;TOYOTA;Prius;2010;Automatic;No;Hybrid;1.8;Front;6;256000 km;4;1;Left wheel;White;-;40
 9513;Jeep;CHEVROLET;Captiva;2016;Automatic;Yes;Diesel;2;Front;4;62814 km;4;4;Left wheel;Grey;891;45044
-4792;Jeep;·É°·ÉÆ·Éï·Éê;GONOW;2005;Manual;Yes;Petrol;2.3;Rear;4;102000 km;4;2;Left wheel;Silver;-;9408
+4792;Jeep;ï¿½É°ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½;GONOW;2005;Manual;Yes;Petrol;2.3;Rear;4;102000 km;4;2;Left wheel;Silver;-;9408
 11076;Sedan;TOYOTA;Prius;2011;Automatic;Yes;Hybrid;1.8;Front;4;204800 km;4;10;Left wheel;Silver;645;18189
 14660;Minivan;TOYOTA;Sienna;2013;Tiptronic;No;Petrol;3.5;Front;6;144000 km;4;12;Left wheel;Grey;1055;36065
 12057;Jeep;SUBARU;Outback;2014;Tiptronic;No;Petrol;2.5;4x4;4;169000 km;4;10;Left wheel;Grey;777;10349
@@ -9664,7 +9664,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 13085;Sedan;KIA;Optima;2016;Tiptronic;No;Petrol;2.4;Front;4;48000 km;4;12;Left wheel;Grey;1051;20698
 7065;Sedan;TOYOTA;Camry;2013;Automatic;Yes;Hybrid;2.5;Front;4;232032 km;4;12;Left wheel;Silver;779;392
 3488;Sedan;MERCEDES-BENZ;E 350;2011;Automatic;Yes;Diesel;3.5;4x4;6;119379 km;4;12;Left wheel;Silver;1172;16621
-7061;Sedan;MERCEDES-BENZ;C 250 1.8 ·É¢·É£·É†·Éë·Éù;2013;Tiptronic;Yes;Petrol;1.8 Turbo;Rear;4;185000 km;4;10;Left wheel;White;-;31361
+7061;Sedan;MERCEDES-BENZ;C 250 1.8 ï¿½É¢ï¿½É£ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½;2013;Tiptronic;Yes;Petrol;1.8 Turbo;Rear;4;185000 km;4;10;Left wheel;White;-;31361
 9366;Jeep;CHEVROLET;Traverse;2014;Automatic;Yes;Petrol;3.6;Front;6;151358 km;4;12;Left wheel;Red;1080;627
 11492;Hatchback;MITSUBISHI;Mirage;2012;Automatic;No;Petrol;1;Front;3;111111 km;4;4;Right-hand drive;Golden;875;7213
 6544;Jeep;HYUNDAI;Santa FE;2016;Automatic;Yes;Diesel;2;Front;4;122409 km;4;4;Left wheel;Blue;891;42717
@@ -10221,7 +10221,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 7829;Sedan;HYUNDAI;Elantra;2011;Automatic;Yes;Petrol;1.6;Front;4;123593 km;4;4;Left wheel;Silver;583;19121
 18314;Sedan;TOYOTA;Camry;2017;Automatic;Yes;Petrol;2.5;Front;4;63837 km;4;12;Left wheel;Grey;1249;13799
 3575;Sedan;BMW;535 Twinturbo;2012;Tiptronic;Yes;Petrol;3.0 Turbo;Rear;4;176480 km;4;12;Left wheel;Black;-;40456
-8578;Sedan;BMW;318 ·É†·Éî·É°·É¢·Éê·Éò·Éö·Éò·Éú·Éí·Éò;2004;Tiptronic;No;Petrol;1.9;Rear;4;81000 km;4;6;Right-hand drive;Blue;-;9408
+8578;Sedan;BMW;318 ï¿½É†ï¿½ï¿½ï¿½É°ï¿½É¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2004;Tiptronic;No;Petrol;1.9;Rear;4;81000 km;4;6;Right-hand drive;Blue;-;9408
 8147;Jeep;LEXUS;GX 460;2015;Automatic;Yes;Petrol;4.6;4x4;8;188078 km;4;0;Left wheel;Black;1646;73071
 4877;Hatchback;TOYOTA;Prius;2010;Tiptronic;Yes;Hybrid;1.8;Front;4;192000 km;4;12;Left wheel;Blue;761;8467
 6052;Jeep;LEXUS;GX 460;2012;Automatic;Yes;Petrol;4.6;4x4;8;255406 km;4;0;Left wheel;Black;1363;12858
@@ -10479,7 +10479,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 13886;Hatchback;HYUNDAI;I30;2011;Automatic;Yes;Petrol;1.6;Front;4;188244 km;4;4;Left wheel;White;583;14454
 120;Sedan;TOYOTA;Camry;2013;Tiptronic;Yes;Hybrid;2.5;Front;4;90000 km;4;12;Left wheel;White;779;23521
 18544;Sedan;DAEWOO;Lacetti;2010;Automatic;Yes;Petrol;1.8;Front;4;71479 km;4;4;Left wheel;Grey;761;6743
-6010;Hatchback;TOYOTA;Prius ·É?·Éò·Éë·É†·Éò·Éì·Éò;2010;Variator;No;Hybrid;1.8;Front;4;120000 km;4;12;Left wheel;Silver;761;16621
+6010;Hatchback;TOYOTA;Prius ï¿½ï¿½?ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2010;Variator;No;Hybrid;1.8;Front;4;120000 km;4;12;Left wheel;Silver;761;16621
 15280;Goods wagon;RENAULT;Megane;2008;Manual;Yes;Diesel;1.5 Turbo;Front;4;17400 km;4;8;Left wheel;Grey;843;12858
 9184;Sedan;HONDA;Civic;2012;Variator;Yes;Hybrid;1.5;Front;4;180000 km;4;8;Left wheel;Sky blue;-;18817
 11635;Sedan;MERCEDES-BENZ;E 300;2017;Automatic;Yes;Petrol;2;Rear;4;1600 km;4;12;Left wheel;Black;1017;392
@@ -10942,7 +10942,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 12383;Sedan;TOYOTA;Camry;2014;Tiptronic;Yes;Petrol;2.5;Front;4;118400 km;4;8;Left wheel;Grey;777;23521
 9943;Sedan;KIA;Cerato;2015;Automatic;Yes;Petrol;1.6;Front;4;89106 km;4;4;Left wheel;Black;626;18983
 6762;Sedan;FORD;Focus;2015;Manual;No;Petrol;2;Front;4;119000 km;4;12;Left wheel;Silver;765;12544
-6096;Pickup;MERCEDES-BENZ;X 250 ·Éî·Éï·É†·Éù·Éû·É£·Éö·Éò;2018;Automatic;Yes;Diesel;2.5 Turbo;4x4;8;43000 km;4;0;Left wheel;Blue;-;109764
+6096;Pickup;MERCEDES-BENZ;X 250 ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2018;Automatic;Yes;Diesel;2.5 Turbo;4x4;8;43000 km;4;0;Left wheel;Blue;-;109764
 4615;Sedan;BMW;330;2003;Manual;No;Petrol;3;Rear;6;0 km;4;8;Left wheel;Grey;-;11917
 15821;Sedan;TOYOTA;Camry;2019;Tiptronic;Yes;Petrol;2.4;Front;4;10000 km;4;12;Left wheel;Blue;1275;61154
 12868;Sedan;MERCEDES-BENZ;C 300;2011;Automatic;Yes;Petrol;3;Rear;6;304082 km;4;12;Left wheel;White;1018;2038
@@ -11547,7 +11547,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 489;Hatchback;FORD;C-MAX;2014;Automatic;No;Hybrid;2;Front;4;272000 km;4;4;Left wheel;Grey;-;16000
 14623;Sedan;BMW;328;2006;Tiptronic;Yes;Petrol;3;Rear;6;226000 km;4;10;Left wheel;Black;-;15053
 1686;Pickup;MITSUBISHI;L 200;2008;Manual;No;Diesel;2.5;4x4;1;320582 km;4;0;Left wheel;Silver;-;23521
-10242;Sedan;FIAT;500 Abarth ·É¢·É£·É†·Éë·Éù;2012;Manual;No;Petrol;1.4 Turbo;Front;6;100000 km;2;6;Left wheel;Grey;-;17562
+10242;Sedan;FIAT;500 Abarth ï¿½É¢ï¿½É£ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½;2012;Manual;No;Petrol;1.4 Turbo;Front;6;100000 km;2;6;Left wheel;Grey;-;17562
 18236;Hatchback;TOYOTA;Aqua;2012;Automatic;Yes;Petrol;1.5;Front;4;81400 km;4;4;Left wheel;Orange;503;16960
 13760;Jeep;MERCEDES-BENZ;GLC 250;2018;Tiptronic;Yes;Petrol;2.0 Turbo;4x4;8;37554 km;4;12;Left wheel;Black;-;141124
 502;Jeep;MAZDA;CX-7;2011;Automatic;Yes;Petrol;2.5;Front;4;183728 km;4;12;Left wheel;Blue;862;392
@@ -11682,7 +11682,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 15612;Sedan;HYUNDAI;Sonata;2011;Automatic;Yes;Petrol;2;Front;4;64666 km;4;4;Left wheel;White;707;13423
 5289;Jeep;SUZUKI;SX4;2009;Automatic;No;Petrol;2;4x4;4;107000 km;4;8;Left wheel;Grey;966;9408
 14147;Jeep;HYUNDAI;Santa FE;2016;Automatic;Yes;Diesel;2;Front;4;136663 km;4;4;Left wheel;Black;891;52991
-2358;Microbus;·É°·ÉÆ·Éï·Éê;IVECO DAYLY;2007;Manual;No;Diesel;2.3 Turbo;Rear;4;328000 km;4;1;Left wheel;White;-;25089
+2358;Microbus;ï¿½É°ï¿½ï¿½Æ·ï¿½ï¿½ï¿½ï¿½;IVECO DAYLY;2007;Manual;No;Diesel;2.3 Turbo;Rear;4;328000 km;4;1;Left wheel;White;-;25089
 14804;Sedan;HYUNDAI;Elantra;2012;Automatic;Yes;Petrol;1.6;Front;4;107523 km;4;4;Left wheel;White;531;20266
 4052;Sedan;TOYOTA;Highlander;2009;Automatic;Yes;Hybrid;3.3;4x4;6;318358 km;4;12;Left wheel;Black;1537;1019
 8742;Hatchback;TOYOTA;Prius;2010;Automatic;Yes;Hybrid;1.8;Front;4;228661 km;4;12;Left wheel;White;761;549
@@ -11983,7 +11983,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 2325;Coupe;HYUNDAI;Genesis;2013;Automatic;Yes;Petrol;3.8;Front;4;116482 km;4;4;Left wheel;Black;1138;47408
 1648;Hatchback;TOYOTA;Prius C;2012;Automatic;No;Petrol;1.5;Front;4;192000 km;4;4;Left wheel;White;-;17562
 632;Universal;HYUNDAI;H1;2016;Automatic;Yes;Diesel;2.5;Front;4;51831 km;4;4;Left wheel;Grey;1091;44247
-949;Coupe;BMW;318 ·É°·Éê·É°·É¨·É†·Éê·É§·Éù·Éì;2002;Manual;Yes;Petrol;1.8;Rear;4;95000 km;2;4;Left wheel;Black;-;8467
+949;Coupe;BMW;318 ï¿½É°ï¿½ï¿½ï¿½É°ï¿½É¨ï¿½É†ï¿½ï¿½ï¿½É§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2002;Manual;Yes;Petrol;1.8;Rear;4;95000 km;2;4;Left wheel;Black;-;8467
 11924;Sedan;KIA;Optima;2011;Automatic;No;Hybrid;2.4;Front;4;171200 km;4;8;Left wheel;Black;831;15681
 8157;Jeep;HYUNDAI;Santa FE;2016;Automatic;Yes;Diesel;2;Front;4;116365 km;4;4;Left wheel;Black;891;40026
 8583;Hatchback;HYUNDAI;Elantra;2014;Tiptronic;Yes;Petrol;2;Front;4;46000 km;4;12;Left wheel;Black;639;15053
@@ -12133,7 +12133,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 18666;Sedan;DAEWOO;Lacetti;2010;Automatic;Yes;Diesel;2;Front;4;164372 km;4;4;Left wheel;Grey;836;8386
 7960;Minivan;NISSAN;Quest;2010;Automatic;Yes;Petrol;3.5;Front;6;70000 km;4;8;Left wheel;Silver;1399;110
 18764;Jeep;HYUNDAI;Tucson;2012;Tiptronic;Yes;Petrol;2.4;Front;4;168000 km;4;6;Left wheel;Black;-;24148
-16946;Sedan;BMW;335 ·É¢·É£·É†·Éë·Éù;2007;Tiptronic;Yes;Petrol;3.5 Turbo;Rear;6;0 km;4;8;Left wheel;Blue;-;20385
+16946;Sedan;BMW;335 ï¿½É¢ï¿½É£ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½;2007;Tiptronic;Yes;Petrol;3.5 Turbo;Rear;6;0 km;4;8;Left wheel;Blue;-;20385
 17060;Universal;HONDA;FIT;2013;Automatic;Yes;Hybrid;1.3;Front;4;147813 km;4;4;Left wheel;Brown;447;10932
 1572;Sedan;AUDI;A6;2002;Automatic;Yes;Petrol;2.7 Turbo;4x4;6;0 km;4;0;Left wheel;Silver;-;4800
 3462;Jeep;BMW;X6;2011;Automatic;Yes;Petrol;4.4;4x4;8;147677 km;4;12;Left wheel;Red;1451;8154
@@ -12141,7 +12141,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 10010;Sedan;KIA;Optima;2016;Automatic;Yes;Petrol;2;Front;4;62876 km;4;4;Left wheel;White;889;22580
 3876;Microbus;MERCEDES-BENZ;Sprinter;2002;Manual;No;Diesel;2.7 Turbo;Rear;5;305000 km;2;2;Left wheel;White;-;17249
 10298;Sedan;KIA;Forte;2016;Tiptronic;No;Petrol;1.8;Front;4;65600 km;4;10;Left wheel;Grey;-;16935
-1367;Sedan;VOLKSWAGEN;Jetta ·É°·Éû·Éù·É†·É¢;2015;Tiptronic;Yes;Petrol;1.8 Turbo;Front;4;76800 km;4;8;Left wheel;Grey;697;18189
+1367;Sedan;VOLKSWAGEN;Jetta ï¿½É°ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½É¢;2015;Tiptronic;Yes;Petrol;1.8 Turbo;Front;4;76800 km;4;8;Left wheel;Grey;697;18189
 12126;Jeep;SSANGYONG;Actyon;2011;Automatic;Yes;Diesel;2;Front;4;113545 km;4;4;Left wheel;Silver;707;21655
 7969;Hatchback;TOYOTA;Prius C;2012;Variator;No;Hybrid;1.5;Front;4;108000 km;4;10;Left wheel;Red;-;18817
 14845;Coupe;MERCEDES-BENZ;E 350;2011;Automatic;Yes;Diesel;3.5;Rear;6;170429 km;2;12;Left wheel;Silver;1172;15994
@@ -12877,7 +12877,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 6694;Jeep;MITSUBISHI;Pajero IO;2001;Automatic;Yes;Petrol;2;4x4;4;0 km;4;3;Left wheel;White;-;10036
 4874;Jeep;TOYOTA;Tacoma;2013;Automatic;Yes;Petrol;2.7;Rear;4;265558 km;4;12;Left wheel;White;834;14583
 13086;Sedan;CHEVROLET;Malibu;2015;Automatic;Yes;Petrol;2.5;Front;4;96242 km;4;12;Left wheel;White;934;1333
-5162;Sedan;LEXUS;IS 250 ·É†·Éî·É°·É¢·Éê·Éò·Éö·Éò·Éú·Éí·Éò;2011;Tiptronic;Yes;Petrol;2.5;Rear;6;138000 km;4;10;Left wheel;Grey;-;24775
+5162;Sedan;LEXUS;IS 250 ï¿½É†ï¿½ï¿½ï¿½É°ï¿½É¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2011;Tiptronic;Yes;Petrol;2.5;Rear;6;138000 km;4;10;Left wheel;Grey;-;24775
 4499;Universal;HYUNDAI;H1;2016;Automatic;Yes;Diesel;2.5;Front;4;117671 km;4;4;Left wheel;Silver;1091;49459
 1288;Hatchback;HONDA;Insight;2011;Automatic;Yes;Hybrid;1.3;Front;4;288704 km;4;0;Left wheel;White;490;706
 1333;Sedan;TOYOTA;Prius C;2012;Automatic;Yes;Hybrid;1.5;Front;4;83200 km;4;8;Left wheel;Grey;-;19757
@@ -12973,7 +12973,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 13939;Sedan;VOLKSWAGEN;Jetta sport;2013;Tiptronic;Yes;Petrol;2.5;Front;4;178000 km;4;10;Left wheel;Silver;779;12544
 14334;Hatchback;CHEVROLET;Volt;2017;Automatic;Yes;Hybrid;1.5;Front;4;81440 km;4;0;Left wheel;Black;382;784
 2072;Jeep;NISSAN;Juke;2012;Automatic;Yes;Petrol;1.6;4x4;4;167405 km;4;0;Left wheel;Black;531;8781
-9647;Microbus;FORD;Transit ·Éû·Éî·É†·Éî·Éí·Éê·É†·Éù·É¢·Éô·Éê;1996;Manual;Yes;Diesel;2.5;Rear;4;200000 km;>5;0;Left wheel;White;-;200
+9647;Microbus;FORD;Transit ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É†ï¿½ï¿½ï¿½ï¿½É¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;1996;Manual;Yes;Diesel;2.5;Rear;4;200000 km;>5;0;Left wheel;White;-;200
 14430;Sedan;HYUNDAI;Elantra;2014;Tiptronic;No;Petrol;1.8;Front;4;61579 km;4;12;Left wheel;Grey;584;17876
 3712;Sedan;HYUNDAI;Accent;2012;Automatic;Yes;Diesel;1.6;Front;4;169486 km;4;4;Left wheel;Grey;531;12720
 7702;Jeep;HYUNDAI;Santa FE;2019;Automatic;Yes;Diesel;2;Front;4;10120 km;4;4;Left wheel;Grey;1077;71983
@@ -13954,7 +13954,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 12265;Sedan;HYUNDAI;Sonata;2016;Automatic;Yes;LPG;2;Front;4;246040 km;4;4;Left wheel;Silver;891;15530
 4231;Universal;FORD;S-max;2007;Manual;Yes;Diesel;2.0 Turbo;Front;4;216000 km;4;8;Left wheel;Blue;-;10976
 6079;Sedan;HYUNDAI;Tucson;2016;Automatic;Yes;Petrol;2;Front;4;175912 km;4;0;Left wheel;White;891;784
-1389;Goods wagon;FORD;Transit Connect ·Éë·Éî·Éú·Éñ·Éò·Éú·Éò;2014;Tiptronic;No;Petrol;2.5;Front;4;200968 km;4;4;Left wheel;White;777;9408
+1389;Goods wagon;FORD;Transit Connect ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2014;Tiptronic;No;Petrol;2.5;Front;4;200968 km;4;4;Left wheel;White;777;9408
 4054;Jeep;LEXUS;RX 450;2010;Automatic;Yes;Hybrid;3.5;4x4;6;186005 km;4;12;Left wheel;Silver;1399;13328
 12945;Sedan;MERCEDES-BENZ;E 300;2017;Automatic;Yes;Petrol;2;Rear;4;26802 km;4;12;Left wheel;Black;1017;314
 15388;Sedan;CHEVROLET;Impala;2017;Automatic;Yes;Petrol;2.5;Front;4;56486 km;4;4;Left wheel;Golden;1249;35617
@@ -16070,7 +16070,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 8568;Sedan;AUDI;A4;2014;Automatic;Yes;Petrol;2;Front;4;162032 km;4;0;Left wheel;Black;639;706
 13670;Jeep;MERCEDES-BENZ;ML 350;2012;Automatic;Yes;Diesel;4.6;4x4;8;180659 km;4;12;Left wheel;Black;1363;1725
 11658;Hatchback;TOYOTA;Prius;2013;Automatic;Yes;Hybrid;1.8;Front;4;245486 km;4;12;Left wheel;Blue;585;1803
-12672;Hatchback;TOYOTA;Aqua ·É°·Éê·É°·É¨·É†·Éê·É§·Éù·Éì;2014;Tiptronic;Yes;Petrol;1.5;Front;4;52000 km;4;8;Left wheel;Black;-;24148
+12672;Hatchback;TOYOTA;Aqua ï¿½É°ï¿½ï¿½ï¿½É°ï¿½É¨ï¿½É†ï¿½ï¿½ï¿½É§ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½;2014;Tiptronic;Yes;Petrol;1.5;Front;4;52000 km;4;8;Left wheel;Black;-;24148
 180;Hatchback;FIAT;500;2012;Automatic;Yes;Petrol;1.4;Front;4;164574 km;4;12;Left wheel;Red;475;706
 17679;Minivan;HYUNDAI;H1;2016;Automatic;Yes;Diesel;2.5;Front;4;92078 km;4;4;Left wheel;Black;1091;38229
 18439;Sedan;TOYOTA;Prius;2018;Automatic;Yes;Hybrid;1.8;Front;4;16566 km;4;12;Left wheel;Red;463;16308
@@ -16125,7 +16125,7 @@ Id;Category;Manufacturer;Model;Prod. year;Gear box type;Leather interior;Fuel ty
 14073;Coupe;AUDI;A4;2003;Manual;No;Diesel;2.0 Turbo;Front;4;260000 km;2;4;Left wheel;Silver;-;9722
 13598;Sedan;HYUNDAI;Sonata;2020;Automatic;Yes;Petrol;2;Front;4;2000 km;4;4;Left wheel;Grey;1076;67903
 14375;Sedan;HYUNDAI;Sonata;2014;Automatic;Yes;LPG;2;Front;4;686233 km;4;4;Left wheel;Orange;639;8781
-10160;Hatchback;OPEL;Vectra ·Éë;2001;Automatic;Yes;Petrol;2.6;Front;6;219200 km;4;6;Right-hand drive;Black;-;3800
+10160;Hatchback;OPEL;Vectra ï¿½ï¿½ï¿½;2001;Automatic;Yes;Petrol;2.6;Front;6;219200 km;4;6;Right-hand drive;Black;-;3800
 7423;Jeep;CHEVROLET;Captiva;2015;Automatic;Yes;Diesel;2.2;Front;4;63116 km;4;4;Left wheel;Silver;843;20068
 1444;Sedan;TOYOTA;Prius;2010;Automatic;No;Hybrid;1.8;Front;4;277000 km;4;10;Left wheel;White;761;14113
 3733;Sedan;AUDI;A4;2010;Manual;Yes;Petrol;2.0 Turbo;4x4;4;192000 km;4;10;Left wheel;Black;-;15681
