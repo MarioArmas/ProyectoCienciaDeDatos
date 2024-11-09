@@ -1,5 +1,10 @@
 # ProyectoCienciaDeDatos
 
+## RegEx para la limpieza de datos
+
+[^a-zA-Z0-9,\.;\s<>()+-]
+\d{4};\d{4};
+
 ## Resultados
 
 - 01: 413047056.317 ---- 411687.3194994826
