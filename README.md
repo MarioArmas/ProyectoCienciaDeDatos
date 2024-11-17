@@ -10,9 +10,9 @@ Intento #17
 
 ## RegEx utilizados para la limpieza de datos
 
-[^a-zA-Z0-9,\.;\s<>()+-]
+"[^a-zA-Z0-9,\.;\s<>()+-]" -> (Eliminar caracteres no reconocidos)
 
-\d{4};\d{4};
+"\d{4};\d{4};" -> (Eliminar el año del modelo, ya hay una variable dedicada para el año)
 
 ## Resultados Públicos
 
